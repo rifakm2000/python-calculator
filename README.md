@@ -31,7 +31,7 @@ It allows users to perform basic arithmetic operations like addition, subtractio
 To download this project, run:
 
 ```bash
-git clone https://github.com/rifakm2000/python-calculator.git
+git clone https://github.com/fatima-rifa/python-calculator.git
 ```
 
 ---
